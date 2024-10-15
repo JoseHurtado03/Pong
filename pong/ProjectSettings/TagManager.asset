@@ -6,6 +6,8 @@ TagManager:
   tags:
   - ScoreP1
   - ScoreP2
+  - TopWall
+  - BottomWall
   layers:
   - Default
   - TransparentFX
